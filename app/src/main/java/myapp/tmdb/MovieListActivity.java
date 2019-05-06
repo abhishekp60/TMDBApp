@@ -112,16 +112,16 @@ if(network_connected1) {
     @Override
     protected void onResume() {
         super.onResume();
-        ConnectivityManager cm1 = (ConnectivityManager) getBaseContext()
-                .getSystemService(Context.CONNECTIVITY_SERVICE);
-        NetworkInfo activeNetwork1 = cm1.getActiveNetworkInfo();
-        network_connected1 = activeNetwork1 != null
-                && activeNetwork1.isConnectedOrConnecting();
-        if(network_connected1){
-            fetchMovieData();
-        }else{
-
-        }
+//        ConnectivityManager cm1 = (ConnectivityManager) getBaseContext()
+//                .getSystemService(Context.CONNECTIVITY_SERVICE);
+//        NetworkInfo activeNetwork1 = cm1.getActiveNetworkInfo();
+//        network_connected1 = activeNetwork1 != null
+//                && activeNetwork1.isConnectedOrConnecting();
+//        if(network_connected1){
+//            fetchMovieData();
+//        }else{
+//
+//        }
 
     }
 
