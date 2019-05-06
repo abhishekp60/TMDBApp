@@ -6,3 +6,6 @@
  Clicking on a movie will show the movie details
 
 ![IMG_20190506_122021](https://user-images.githubusercontent.com/19992678/57210349-f9ccd000-6ff9-11e9-90d3-101c0c313587.jpg)
+
+
+![IMG_20190506_122004](https://user-images.githubusercontent.com/19992678/57210381-1e28ac80-6ffa-11e9-8968-3b19cbce0c7d.jpg)
